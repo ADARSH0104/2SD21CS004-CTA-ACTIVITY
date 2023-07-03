@@ -49,7 +49,7 @@ class calculator extends JFrame implements ActionListener {
 		l7.setForeground(Color.GREEN);
 		l8.setForeground(Color.GREEN);
 		b2.setForeground(Color.WHITE);
-
+		b1.setForeground(Color.WHITE);
 		p1=new JPanel();
 		p2=new JPanel();
 		p3=new JPanel();
